@@ -1,1 +1,1 @@
-# johnsons-dictionary.github.io
+# johnsonsdictionary.github.io
